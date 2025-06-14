@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Incomplete Notes</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Incomplete Notes</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>loich@incompletenotes.com (Loich kamdoum Deameni)</managingEditor>
+    <webMaster>loich@incompletenotes.com (Loich kamdoum Deameni)</webMaster>
+    <lastBuildDate>Thu, 12 Jun 2025 22:33:59 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disclaimer</title>
+      <link>http://localhost:1313/about/disclaimer/</link>
+      <pubDate>Thu, 12 Jun 2025 22:33:59 +0200</pubDate><author>loich@incompletenotes.com (Loich kamdoum Deameni)</author>
+      <guid>http://localhost:1313/about/disclaimer/</guid>
+      <description>&lt;p&gt;The content provided on this blog is for informational and educational purposes only. While every effort has been made to ensure the accuracy and reliability of the information presented, the author and the blog make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the content. Any reliance you place on the information found on this blog is strictly at your own risk.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Loich Profile</title>
+      <link>http://localhost:1313/about/loich_profile/</link>
+      <pubDate>Thu, 12 Jun 2025 19:39:49 +0200</pubDate><author>loich@incompletenotes.com (Loich kamdoum Deameni)</author>
+      <guid>http://localhost:1313/about/loich_profile/</guid>
+      <description>&lt;p&gt;I am Loich Kamdoum Deameni and currently work as a doctoral student in computer science.&lt;br&gt;&#xA;My interest are: quality assurance of machine learned models and cloud architectures.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Driver’s licence:&lt;/strong&gt; B&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Period&lt;/th&gt;&#xA;          &lt;th&gt;Degree / Position&lt;/th&gt;&#xA;          &lt;th&gt;Institution&lt;/th&gt;&#xA;          &lt;th&gt;Key Topics / Responsibilities&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;07 / 2022 – Present&lt;/td&gt;&#xA;          &lt;td&gt;Ph.D. Student (Computer Science)&lt;/td&gt;&#xA;          &lt;td&gt;Clausthal University of Technology&lt;/td&gt;&#xA;          &lt;td&gt;* Simulation of Cyber-Physical Systems (Python) * Course assistant (Reinforcement Learning, Monitoring of Neural Networks)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;05 / 2022 – 06 / 2022&lt;/td&gt;&#xA;          &lt;td&gt;System Engineer&lt;/td&gt;&#xA;          &lt;td&gt;SVA GmbH&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;10 / 2018 – 04 / 2022&lt;/td&gt;&#xA;          &lt;td&gt;M.Sc. Computer Science&lt;/td&gt;&#xA;          &lt;td&gt;Clausthal University of Technology, Germany&lt;/td&gt;&#xA;          &lt;td&gt;Big Data * Databases * Machine Learning * Artificial Intelligence * High-Performance Computing * Cloud Architectures&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;10 / 2014 – 05 / 2017&lt;/td&gt;&#xA;          &lt;td&gt;M.Sc. Computer Science&lt;/td&gt;&#xA;          &lt;td&gt;University of Dschang, Cameroon&lt;/td&gt;&#xA;          &lt;td&gt;High-Performance Computing * Distributed Systems &amp;amp; Applications * Databases * Parallel Algorithms&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hierarchical and on-demand wireless energy transfer protocol in sensor networks with multiple chargers&#xA;&lt;a href=&#34;https://www.inderscienceonline.com/doi/abs/10.1504/IJSNET.2019.101570&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer &#34;&gt;https://www.inderscienceonline.com/doi/abs/10.1504/IJSNET.2019.101570&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;&#xA;&lt;h3 id=&#34;working-student--rechenzentrum-tu-clausthal&#34;&gt;Working Student – Rechenzentrum, TU Clausthal&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;04 / 2019 – 11 / 2021, Clausthal-Zellerfeld, Germany&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
