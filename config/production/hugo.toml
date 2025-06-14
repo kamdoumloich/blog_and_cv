@@ -51,7 +51,3 @@ languageName = "English"
     name = "About"
     url = "/about/loich_profile/"
     title = "About Authors"
-
-[services]
-  [services.googleAnalytics]
-    ID = 'G-VXYC4VNS7S'
