@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Abouts on Incomplete Notes</title><link>https://incompletenotes.com/about/</link><description>Recent content in Abouts on Incomplete Notes</description><generator>Hugo</generator><language>en</language><managingEditor>loich@incompletenotes.com (Loich kamdoum Deameni)</managingEditor><webMaster>loich@incompletenotes.com (Loich kamdoum Deameni)</webMaster><lastBuildDate>Thu, 12 Jun 2025 22:33:59 +0200</lastBuildDate><atom:link href="https://incompletenotes.com/about/index.xml" rel="self" type="application/rss+xml"/><item><title>Disclaimer</title><link>https://incompletenotes.com/about/disclaimer/</link><pubDate>Thu, 12 Jun 2025 22:33:59 +0200</pubDate><author>loich@incompletenotes.com (Loich kamdoum Deameni)</author><guid>https://incompletenotes.com/about/disclaimer/</guid><description>&lt;p>The content provided on this blog is for informational and educational purposes only. While every effort has been made to ensure the accuracy and reliability of the information presented, the author and the blog make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the content. Any reliance you place on the information found on this blog is strictly at your own risk.&lt;/p></description></item><item><title>Loich Profile</title><link>https://incompletenotes.com/about/loich_profile/</link><pubDate>Thu, 12 Jun 2025 19:39:49 +0200</pubDate><author>loich@incompletenotes.com (Loich kamdoum Deameni)</author><guid>https://incompletenotes.com/about/loich_profile/</guid><description>&lt;p>I am Loich Kamdoum Deameni and currently work as a doctoral student in computer science.&lt;br>
+My interest are: quality assurance of machine learned models and cloud architectures.&lt;/p>
+&lt;p>&lt;strong>Driver’s licence:&lt;/strong> B&lt;/p>
+&lt;hr>
+&lt;h2 id="education">Education&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Period&lt;/th>
+ &lt;th>Degree / Position&lt;/th>
+ &lt;th>Institution&lt;/th>
+ &lt;th>Key Topics / Responsibilities&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>07 / 2022 – Present&lt;/td>
+ &lt;td>Ph.D. Student (Computer Science)&lt;/td>
+ &lt;td>Clausthal University of Technology&lt;/td>
+ &lt;td>* Simulation of Cyber-Physical Systems (Python) * Course assistant (Reinforcement Learning, Monitoring of Neural Networks)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>05 / 2022 – 06 / 2022&lt;/td>
+ &lt;td>System Engineer&lt;/td>
+ &lt;td>SVA GmbH&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>10 / 2018 – 04 / 2022&lt;/td>
+ &lt;td>M.Sc. Computer Science&lt;/td>
+ &lt;td>Clausthal University of Technology, Germany&lt;/td>
+ &lt;td>Big Data * Databases * Machine Learning * Artificial Intelligence * High-Performance Computing * Cloud Architectures&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>10 / 2014 – 05 / 2017&lt;/td>
+ &lt;td>M.Sc. Computer Science&lt;/td>
+ &lt;td>University of Dschang, Cameroon&lt;/td>
+ &lt;td>High-Performance Computing * Distributed Systems &amp;amp; Applications * Databases * Parallel Algorithms&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 id="publications">Publications&lt;/h2>
+&lt;ul>
+&lt;li>Hierarchical and on-demand wireless energy transfer protocol in sensor networks with multiple chargers
+&lt;a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJSNET.2019.101570" target="_blank" rel="noopener noreffer ">https://www.inderscienceonline.com/doi/abs/10.1504/IJSNET.2019.101570&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="experience">Experience&lt;/h2>
+&lt;h3 id="working-student--rechenzentrum-tu-clausthal">Working Student – Rechenzentrum, TU Clausthal&lt;/h3>
+&lt;p>&lt;em>04 / 2019 – 11 / 2021, Clausthal-Zellerfeld, Germany&lt;/em>&lt;/p></description></item></channel></rss>
